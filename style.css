@@ -1,0 +1,29 @@
+h1#company {
+    font-size: 48px;
+    font-weight: bold;
+    color: darkblue;
+    margin-bottom: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#location {
+    font-size: 24px;
+    font-weight: bold;
+    color: firebrick;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+#summary {
+    background-color: skyblue;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
